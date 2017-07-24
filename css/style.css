@@ -13,6 +13,21 @@ body {
   margin: 25px;
 }
 
+#header {
+  height: 100%;
+  background-image: url('tardisbackground.jpg');
+  background-size: cover;
+  color: ;
+}
+
+.header-image {
+
+}
+
+.title {
+  font: ;
+}
+
 main {
   display:block;
   height:175px;
@@ -74,10 +89,10 @@ footer a {
 
 .button-container button {
   width: 100px;
-	margin-right: 10px;
-	text-align: center;
-	display: inline-block;
-	float: left;
+  margin-right: 10px;
+  text-align: center;
+  display: inline-block;
+  float: left;
   font-size:15px;
   background-color: #1e2835;
   border-color: #404853;
