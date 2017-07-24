@@ -21,7 +21,7 @@
 }
 
 #page-title {
-  color: darkred;
+  color: #781C37;
   font-family: 'Oswald', sans-serif;
   margin-top: -2%;
   margin-left: 3%;
@@ -46,7 +46,7 @@
 }
 
 .fa-heart {
-  color: darkred;
+  color: #781C37;
 }
 
 .fa-twitter {
@@ -108,7 +108,7 @@ footer a {
   display: inline-block;
   float: left;
   font-size:15px;
-  background-color: darkred;
+  background-color: #781C37;
   border-color: #404853;
   cursor:pointer;
   background-image: linear-gradient(to bottom,rgba(246,246,246,.1)0%,rgba(30,40,53,0)66%);
