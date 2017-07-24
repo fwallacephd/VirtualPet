@@ -8,32 +8,28 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 25px;
+
+#logo{
+    height: 200px;
+    background: url('../images/doctorwhobanner3.jpg');
+    color: white;
+    background-size: 100% 100%;
+
 }
+
+#page-title {
+  margin-top: -2%;
+  margin-left: 3%;
+  vertical-align: middle;
+}
+
 
 main {
   display:block;
   height:175px;
 }
 
-header {
-  border-bottom: 1px solid black;
-}
 
-h1 {
-  font-weight: bold;
-  color: #000;
-}
-
-.bold {
-  font-weight: bold;
-}
-
-p {
-  max-width: 600px;
-}
 
 
 li {
@@ -74,10 +70,10 @@ footer a {
 
 .button-container button {
   width: 100px;
-	margin-right: 10px;
-	text-align: center;
-	display: inline-block;
-	float: left;
+  margin-right: 10px;
+  text-align: center;
+  display: inline-block;
+  float: left;
   font-size:15px;
   background-color: #1e2835;
   border-color: #404853;
