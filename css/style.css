@@ -8,19 +8,20 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 25px;
+
+#logo{
+    height: 200px;
+    background: url('../images/doctorwhobanner3.jpg');
+    color: white;
+    background-size: 100% 100%;
+
 }
 
-.title{
-      background-size: cover;
-      background: url('../images/doctorwhobanner.jpg') center center;
-      color: white;
-      text-aligh: center;
+#page-title {
+  margin-top: -2%;
+  margin-left: 3%;
+  vertical-align: middle;
 }
-
-
 
 
 main {
