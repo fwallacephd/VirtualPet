@@ -13,11 +13,12 @@ body {
   margin: 25px;
 }
 
-#header {
-  height: 100%;
-  background-image: url('tardisbackground.jpg');
-  background-size: cover;
-  color: ;
+.title{
+      height: 100%;
+      width: 100%;
+      background: url('../images/doctorwhobanner.jpg') center center;
+      color: white;
+      letter-spacing: 4px;
 }
 
 .header-image {
