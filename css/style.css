@@ -8,6 +8,9 @@
   box-sizing: border-box;
 }
 
+.body {
+  font-family: 'Oswald', sans-serif;
+}
 
 #logo{
     height: 200px;
@@ -18,22 +21,45 @@
 }
 
 #page-title {
+  color: darkred;
+  font-family: 'Oswald', sans-serif;
   margin-top: -2%;
   margin-left: 3%;
   vertical-align: middle;
 }
 
 
-main {
+.main {
+  color: #11234B;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
   display:block;
   height:175px;
 }
 
+#description {
+  border-top: 20px solid white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: #11234B;
+}
 
+.fa-heart {
+  color: darkred;
+}
+
+.fa-twitter {
+  color: #4099FF;
+}
 
 
 li {
   margin-bottom: 5px;
+}
+
+.K9-details {
+
 }
 
 footer {
@@ -48,12 +74,19 @@ footer a {
 
 .pet-image {
   height:150px;
+  margin: auto;
 }
 
 .dashboard div {
-  display:block;
+
 }
 
+#controls {
+
+    border: 0px;
+    margin: -5px;
+
+}
 .pet-image-container {
   float:left;
   padding:10px;
@@ -75,7 +108,7 @@ footer a {
   display: inline-block;
   float: left;
   font-size:15px;
-  background-color: #1e2835;
+  background-color: darkred;
   border-color: #404853;
   cursor:pointer;
   background-image: linear-gradient(to bottom,rgba(246,246,246,.1)0%,rgba(30,40,53,0)66%);
