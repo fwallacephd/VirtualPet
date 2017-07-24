@@ -14,42 +14,21 @@ body {
 }
 
 .title{
-      height: 100%;
-      width: 100%;
+      background-size: cover;
       background: url('../images/doctorwhobanner.jpg') center center;
       color: white;
-      letter-spacing: 4px;
+      text-aligh: center;
 }
 
-.header-image {
 
-}
 
-.title {
-  font: ;
-}
 
 main {
   display:block;
   height:175px;
 }
 
-header {
-  border-bottom: 1px solid black;
-}
 
-h1 {
-  font-weight: bold;
-  color: #000;
-}
-
-.bold {
-  font-weight: bold;
-}
-
-p {
-  max-width: 600px;
-}
 
 
 li {
